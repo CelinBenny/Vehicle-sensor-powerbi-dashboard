@@ -71,9 +71,16 @@ Interactive filters allow users to explore the dataset dynamically.
 
 ---
 
-## Dashboard Versions
+## Dashboard Preview
 
-### Dashboard Version 1
+Below are screenshots of the Power BI dashboards created in this project.
+
+### Dashboard Version 1 – Initial Dashboard
+
+This version focuses on basic KPI indicators and sensor data visualization.
+
+![Dashboard Version 1](images/dashboard_v1.png)
+
 Initial Power BI dashboard focusing on:
 
 - KPI indicators
@@ -82,6 +89,11 @@ Initial Power BI dashboard focusing on:
 - Battery health monitoring
 
 ### Dashboard Version 2 (Improved Design)
+
+This version improves the dashboard layout, styling, and visual structure to create clearer data storytelling.
+
+![Dashboard Version 2](images/dashboard_v2.png)
+
 Enhanced version with:
 
 - Improved layout
